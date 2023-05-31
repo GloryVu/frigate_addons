@@ -19,4 +19,4 @@ This must be in the format `host:port`. The following are valid examples:
 
 ## Support
 
-Please [open an issue](https://github.com/blakeblackshear/frigate/issues/new/choose) if you need support.
+Please [open an issue](https://github.com/gloryvu/frigate_dev/issues/new/choose) if you need support.

@@ -4,8 +4,8 @@ panel_icon: "mdi:cctv"
 panel_title: Frigate
 slug: frigate-fa-beta
 description: NVR with realtime local object detection for IP cameras
-url: "https://github.com/blakeblackshear/frigate"
-image: ghcr.io/blakeblackshear/frigate
+url: "https://github.com/GloryVu/frigate_dev"
+image: ghcr.io/gloryvu/frigate_dev
 startup: application
 boot: auto
 init: false
